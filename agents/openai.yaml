@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn X Translations"
+  short_description: "Localize Learn X guides safely"
+  default_prompt: "Use $learnxinyminutes-translations to localize a Learn X in Y Minutes guide consistently."
